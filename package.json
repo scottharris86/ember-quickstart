@@ -30,12 +30,14 @@
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
     "ember-data": "^2.13.0-beta.1",
+    "ember-engines": "^0.5.2",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.13.0-beta.1",
     "ember-welcome-page": "^3.0.0",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.2.3",
+    "scientist-admin": "git+https://github.com/scottharris86/scientists-admin.git"
   },
   "engines": {
     "node": ">= 4"
